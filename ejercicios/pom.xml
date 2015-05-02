@@ -4,7 +4,7 @@
 
   <groupId>edu.maimonides.ides2.borbon.oscar</groupId>
   <artifactId>ejercicios</artifactId>
-  <version>ejercicio1</version>
+  <version>ejercicio2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>ejercicios</name>
